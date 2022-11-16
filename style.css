@@ -1,0 +1,57 @@
+text {
+    color: rgb(255, 255, 255);
+    position: relative;
+    font-size: x-large;
+    top: 210px;
+}
+
+button {
+    position: relative;
+    top: 245px;
+}
+
+h1 {
+    left: 40%;
+    position: absolute;
+    text-align: center;
+    width: 320px;
+}
+
+body{
+    background-color: #7DB46CFF;
+}
+.gamePage {
+    top: 20%;
+    left: 40%;
+    position: absolute;
+    background-color: black;
+    justify-content: center;
+    width: 360px;
+    height: 505px;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.cells {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: xx-large;
+    background-color: #ffffff;
+    margin: 5px;
+    padding: 60px 0;
+    width: 30%;
+
+}
+
+.endAndreset {
+    display: none;
+    top: 20%;
+    left: 40%;
+    position: absolute;
+    justify-content: center;
+    width: 360px;
+    height: 505px;
+    text-align: center;
+    background-color: black;
+    opacity: 70%;
+}
