@@ -1,0 +1,4 @@
+# Tic-Tac-Toe :
+- Players take turns placing Xs and Os on a grid board, attempting to create a line of three either horizontally, vertically, or diagonally.
+- The first player to create a line wins the game.
+- If neither player creates a line of three, the game is considered a draw.
